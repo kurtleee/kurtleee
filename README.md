@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kurtleee
-- 👀 I’m interested in BackEnd Dev, Penetration Test & New Techs !
+- 👀 I’m interested in BackEnd Dev, Penetration Test & New Techs!
 - 🌱 I’m currently learning Spring Framework...
-- 💞️ I’m looking to collaborate on BackEnd Dev opportunities ...
-- 📫 How to reach me ? You can find me at :
+- 💞️ I’m looking to collaborate on BackEnd Dev opportunities...
+- 📫 How to reach me? You can find me at:
   - LinkedIn @Xilong
   - Twitter @kurtleee
   - Bilibili
