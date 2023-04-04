@@ -7,7 +7,7 @@
   - Twitter @kurtleee
   - Bilibili
   - Youtube @KurtLeee
-  - WeChat @kurtleeeeee
+  - WeChat @kurtleeeee
 
 <!---
 kurtleee/kurtleee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
