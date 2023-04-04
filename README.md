@@ -5,7 +5,7 @@
 - 📫 How to reach me? You can find me at:
   - LinkedIn @Xilong
   - Twitter @kurtleee
-  - Bilibili
+  - Bilibili @~REDACTED~
   - Youtube @KurtLeee
   - WeChat @kurtleeeee
 
